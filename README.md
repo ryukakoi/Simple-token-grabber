@@ -19,6 +19,19 @@ This is a Python-based educational demonstration of how token grabbing could the
 - Cross-platform compatibility (Windows/Linux/macOS)
 
 Example output:
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="788" height="376" alt="Screenshot 2025-07-20 195149" src="https://github.com/user-attachments/assets/b9854932-4af5-4907-bbe6-17c6d33c9e25" />
 
 ## 🚀 Installation
