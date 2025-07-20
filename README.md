@@ -41,3 +41,15 @@ cd discord-token-grabber-educational
 
 2. Install required dependencies:
 pip install -r requirements.txt
+
+
+## 📚 Usage
+1. Replace your webhook in AirFlow.py
+2. Run the code
+
+## ⚖️ Legal Notice
+This software is provided "as is" without warranty of any kind. I am not responsible for any misuse of this tool. By using this software, you agree that:
+- You will only use it for legal, educational purposes
+- You have permission to test on any systems you use this tool on
+- You understand the potential legal consequences of misuse
+
