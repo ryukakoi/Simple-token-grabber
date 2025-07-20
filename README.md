@@ -37,7 +37,6 @@ Example output:
 ## 🚀 Installation
 1. Clone the repository:
 https://github.com/SinLimerence/Simple-token-grabber.git
-cd discord-token-grabber-educational
 
 2. Install required dependencies:
 pip install -r requirements.txt
