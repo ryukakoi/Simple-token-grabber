@@ -18,7 +18,7 @@ This is a Python-based educational demonstration of how token grabbing could the
 - Includes basic obfuscation techniques (for research purposes)
 - Cross-platform compatibility (Windows/Linux/macOS)
 
-Example output:
+Example output: 
 
 
 
