@@ -15,8 +15,6 @@ This is a Python-based educational demonstration of how token grabbing could the
 ## 🔧 Features
 - Demonstrates how Discord tokens could be extracted from a system
 - Educational examples of common security vulnerabilities
-- Includes basic obfuscation techniques (for research purposes)
-- Cross-platform compatibility (Windows/Linux/macOS)
 
 Example output: 
 
