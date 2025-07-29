@@ -36,6 +36,14 @@ This is a Python-based educational demonstration of how token grabbing could the
  - Discord PTB
  - Lightcord
 
+
+
+
+
+
+
+
+
 Example output: 
 
 <img width="1128" height="660" alt="Screenshot 2025-07-29 151944" src="https://github.com/user-attachments/assets/ff7322e8-92fd-4362-860c-46dbda3c25eb" />
