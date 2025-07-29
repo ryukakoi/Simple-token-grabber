@@ -30,6 +30,7 @@ This is a Python-based educational demonstration of how token grabbing could the
  - Uran
  - Iridium
  - Firefox
+   
 -**Other**
  - Discord
  - Discord Canary
