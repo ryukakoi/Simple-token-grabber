@@ -13,11 +13,32 @@ This project is **for educational purposes only**. Unauthorized access to comput
 This is a Python-based educational demonstration of how token grabbing could theoretically work on Discord. It's designed to help security researchers and developers understand potential vulnerabilities and how to protect against them. 
    
 ## 🔧 Features
-- Demonstrates how Discord tokens could be extracted from a system 
-- Educational examples of common security vulnerabilities 
+-**Browsers**
+ - Brave
+ - Edge
+ - Chrome
+ - Vilvadi
+ - Yandex
+ - Amigo
+ - Torch
+ - Kometa
+ - Orbitum
+ - CentBrowser
+ - 7star
+ - Sputnik
+ - Epic Privacy Browser
+ - Uran
+ - Iridium
+ - Firefox
+-**Other**
+ - Discord
+ - Discord Canary
+ - Discord PTB
+ - Lightcord
 
 Example output: 
 
+<img width="1128" height="660" alt="Screenshot 2025-07-29 151944" src="https://github.com/user-attachments/assets/ff7322e8-92fd-4362-860c-46dbda3c25eb" />
 
 
 
@@ -30,7 +51,6 @@ Example output:
 
 
 
-<img width="788" height="376" alt="Screenshot 2025-07-20 195149" src="https://github.com/user-attachments/assets/b9854932-4af5-4907-bbe6-17c6d33c9e25" />
 
 ## 🚀 Installation
 1. Install the files.
