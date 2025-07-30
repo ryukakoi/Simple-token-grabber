@@ -21,7 +21,7 @@ This is a Python-based educational demonstration of how token grabbing could the
  - Yandex
  - Amigo
  - Torch
- - Kometa
+ - Kometa 
  - Orbitum
  - CentBrowser
  - 7star
