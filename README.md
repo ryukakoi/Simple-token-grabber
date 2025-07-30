@@ -57,8 +57,8 @@ Example output:
 
 
 
-<img width="790" height="344" alt="Screenshot 2025-07-30 201549" src="https://github.com/user-attachments/assets/44266fa2-c915-4659-a266-a91f92c2a3a1" />
 
+<img width="680" height="338" alt="Screenshot 2025-07-30 201625" src="https://github.com/user-attachments/assets/9fc398dc-b8c1-42db-b665-5deca1ec0708" />
 
 
 
