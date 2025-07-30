@@ -52,10 +52,12 @@ This is a Python-based educational demonstration of how token grabbing could the
 
 Example output: 
 
-<img width="1128" height="660" alt="Screenshot 2025-07-29 151944" src="https://github.com/user-attachments/assets/ff7322e8-92fd-4362-860c-46dbda3c25eb" />
+<img width="738" height="308" alt="Screenshot 2025-07-30 201539" src="https://github.com/user-attachments/assets/0e127bc0-5625-4449-b7b5-1cf5f1e3c3cb" />
 
 
 
+
+<img width="790" height="344" alt="Screenshot 2025-07-30 201549" src="https://github.com/user-attachments/assets/44266fa2-c915-4659-a266-a91f92c2a3a1" />
 
 
 
