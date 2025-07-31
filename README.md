@@ -9,7 +9,7 @@
 ## ⚠️ Important Disclaimer
 This project is **for educational purposes only**. Unauthorized access to computer systems and networks is illegal in most jurisdictions. The creator of this software does not condone or support any malicious activities. Use this tool only on systems you own or have explicit permission to test.
  
-## 📝 Description
+## 📝 Description 
 This is a Python-based educational demonstration of how token grabbing could theoretically work on Discord. It's designed to help security researchers and developers understand potential vulnerabilities and how to protect against them. 
    
 ## 🔧 Features
