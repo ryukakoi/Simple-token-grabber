@@ -17,7 +17,7 @@ This is a Python-based educational demonstration of how token grabbing could the
  - Brave
  - Edge
  - Chrome
- - Vilvadi
+ - Vilvadi 
  - Yandex
  - Amigo
  - Torch
