@@ -55,11 +55,11 @@ Example output:
 
 
 
-<img width="595" height="296" alt="Screenshot 2025-07-30 201724" src="https://github.com/user-attachments/assets/66de0f24-c810-458d-b75f-538fce7982dd" />
 
 
 
-<img width="680" height="338" alt="Screenshot 2025-07-30 201625" src="https://github.com/user-attachments/assets/9fc398dc-b8c1-42db-b665-5deca1ec0708" />
+
+
 
 
 
