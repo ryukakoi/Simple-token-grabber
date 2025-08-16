@@ -14,7 +14,7 @@ This is a Python-based educational demonstration of how token grabbing could the
    
 ## 🔧 Features
 -- **Browsers** 
- - Brave
+ - Brave 
  - Edge
  - Chrome
  - Vilvadi 
