@@ -1,7 +1,7 @@
 ![standard](https://github.com/user-attachments/assets/f9357262-3580-4e4a-8f4e-b2ed2f1b70f5)
 
 # Discord Token Grabber (Educational Purposes Only)
-
+ 
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Warning](https://img.shields.io/badge/WARNING-EDUCATIONAL%20USE%20ONLY-orange)
