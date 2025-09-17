@@ -3,7 +3,6 @@
 # Discord Token Grabber (Educational Purposes Only)
  
 ![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-red)
 ![Warning](https://img.shields.io/badge/WARNING-EDUCATIONAL%20USE%20ONLY-orange)
 
 ## ⚠️ Important Disclaimer
