@@ -11,7 +11,7 @@ This project is **for educational purposes only**. Unauthorized access to comput
 ## 📝 Description 
 This is a Python-based educational demonstration of how token grabbing could theoretically work on Discord. It's designed to help security researchers and developers understand potential vulnerabilities and how to protect against them. 
    
-## 🔧 Features
+## 🔧 Features 
 -- **Browsers** 
  - Brave 
  - Edge
